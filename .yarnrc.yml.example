@@ -1,0 +1,12 @@
+yarnPath: .yarn/releases/yarn-3.2.3.cjs
+
+npmRegistries:
+  "https://npm.pkg.github.com":
+    npmAlwaysAuth: true
+    npmAuthToken: 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
+
+npmScopes:
+  rommelandrea:
+    npmPublishRegistry: "https://npm.pkg.github.com"
+    npmRegistryServer: "https://npm.pkg.github.com"
+    npmAlwaysAuth: true
